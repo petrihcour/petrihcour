@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petrihcour
+- 👋 Hi, I’m Vanessa!
 - 👀 I’m interested in Dungeons & Dragons, reading, travelling, hiking (when it's not 105 degrees outside), and live music. 
 - 🌱 I’m currently learning software engineering: JavaScript, CSS, HTML ... to be continued. 
 - 💞️ I’m looking to collaborate on - unsure. Naive and growing. 
