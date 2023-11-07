@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vanessa!
-- 👀 I’m interested in Dungeons & Dragons, reading, travelling, hiking (when it's not 105 degrees outside), and live music. 
-- 🌱 I’m currently learning software engineering: JavaScript, CSS, HTML ... to be continued. 
-- 💞️ I’m looking to collaborate on - unsure. Naive and growing. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanesssagarcia/).
+- 👀 I'm a frontend engineer passionate about JavaScript, React, CSS, HTML, and various frameworks. 
+- 🌱 In my free time, I enjoy Dungeons & Dragons, reading, traveling, hiking (preferably when it's not scorching hot), and live music.  
+- 💞️ I’m open to collaborations and always eager to learn. 
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vanesssagarcia/)!
 
 <!---
 petrihcour/petrihcour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
