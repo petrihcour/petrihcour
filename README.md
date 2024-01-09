@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vanessa!
-- 👀 I'm a frontend engineer passionate about JavaScript, React, CSS, HTML, and various frameworks. 
+- 👀 I'm a software engineer passionate about JavaScript, React, CSS, HTML, and various frameworks. 
 - 🌱 In my free time, I enjoy Dungeons & Dragons, reading, traveling, hiking (preferably when it's not scorching hot), and live music.  
-- 💞️ I’m open to collaborations and always eager to learn. 
+- 💞️ I’m open to collaborations and always excited to learn new things. 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vanesssagarcia/)!
 
 <!---
